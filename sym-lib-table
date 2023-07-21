@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Metro M7 RT1011 SD rev A-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Metro M7 RT1011 SD rev A-eagle-import.kicad_sym")(options "")(descr ""))
+)

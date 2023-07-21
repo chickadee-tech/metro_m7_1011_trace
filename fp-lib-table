@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Metro M7 RT1011 SD rev A")(type "KiCad")(uri "$(KIPRJMOD)/Metro M7 RT1011 SD rev A.pretty")(options "")(descr ""))
+)
